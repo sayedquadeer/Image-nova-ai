@@ -1,0 +1,23 @@
+{
+  "short_name": "ImageNova AI",
+  "name": "ImageNova AI - Free AI Image Tools Suite",
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "display": "standalone",
+  "orientation": "any",
+  "description": "Free suite of high-performance AI tools for upscaling, background removal, face enhancement, and AI artwork generation."
+}
+
